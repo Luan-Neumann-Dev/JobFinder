@@ -6,7 +6,7 @@ Bem-vindo ao JobFinder! Seu portal para encontrar e lançar vagas de trabalho de
 
 ## Sobre o Projeto
 
-JobFinder é o lugar onde oportunidades batem à sua porta! Este projeto é feito com amor, HTML, CSS, JavaScript, Node.js e Express. Aqui, você pode tanto lançar vagas de trabalho quanto buscar por aquela oportunidade dos sonhos. 💼✨
+JobFinder é o lugar onde oportunidades batem à sua porta! Este projeto é feito com HTML, CSS, JavaScript, Node.js, Express e amor. Aqui, você pode tanto lançar vagas de trabalho quanto buscar por aquela oportunidade dos sonhos. 💼✨
 
 ## Responsividade
 
