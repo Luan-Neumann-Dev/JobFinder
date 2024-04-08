@@ -1,29 +1,32 @@
 # 🚀 JobFinder 🎉
 
-Bem-vindo ao JobFinder! Seu portal para encontrar e lançar vagas de trabalho de forma simples e eficiente. 😎
+Welcome to JobFinder! Your portal for finding and posting job opportunities in a simple and efficient way. 😎
 
 ![image](https://github.com/Luan-Neumann-Dev/JobFinder/assets/155394874/9ff0f3bc-44ad-41ab-aa54-9965c4235624)
 
-## Sobre o Projeto
+## About the Project 💼
 
-JobFinder é o lugar onde oportunidades batem à sua porta! Este projeto é feito com HTML, CSS, JavaScript, Node.js, Express e amor. Aqui, você pode tanto lançar vagas de trabalho quanto buscar por aquela oportunidade dos sonhos. 💼✨
+JobFinder is the place where opportunities knock at your door! This project is made with HTML, CSS, JavaScript, Node.js, Express, and love. Here, you can both post job openings and search for that dream opportunity. ✨
 
-## Responsividade
+## Responsiveness 📱💻
 
-O JobFinder é totalmente responsivo, garantindo uma ótima experiência de usuário em dispositivos de todos os tamanhos. Então, não importa se você está navegando em um desktop, tablet ou smartphone, o JobFinder se ajustará lindamente para atender às suas necessidades. 📱💻
+JobFinder is fully responsive, ensuring a great user experience on devices of all sizes. So, whether you're browsing on a desktop, tablet, or smartphone, JobFinder will adjust beautifully to meet your needs.
 
-## Como Rodar o Projeto
+## How to Run the Project 🌟
 
-Para rodar o projeto localmente, siga estas instruções:
+To run the project locally, follow these instructions:
 
-1. Certifique-se de ter o Node.js instalado em sua máquina.
-2. Clone este repositório
-3. Vá até a pasta do projeto: `cd JobFinder`
-4. Instale as dependências do projeto pelo terminal: `npm install`
-5. Inicie o servidor: `npm run dev`
-6. Abra seu navegador e vá para `http://localhost:3000` para ver o projeto em ação! 🌟
+1. Make sure you have Node.js installed on your machine.
+2. Clone this repository.
+3. Navigate to the project folder: `cd JobFinder`
+4. Install project dependencies via the terminal: `npm install`
+5. Start the server: `npm run dev`
+6. Open your browser and go to `http://localhost:3000` to see the project in action! 🌟
 
-## Contribua!
-Gostou do projeto? Quer deixá-lo ainda melhor? Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar pull requests, relatar problemas ou dar sugestões de melhorias. Juntos, vamos tornar o JobFinder o melhor lugar para encontrar e lançar vagas de trabalho. 💪🛠️
+## Contribute! 💪🛠️
+Liked the project? Want to make it even better? Contributions are always welcome! Feel free to send pull requests, report issues, or suggest improvements. Together, let's make JobFinder the best place to find and post job openings.
 
-<sub>Este projeto foi desenvolvido ao longo do curso de Javascript dentro da comunidade Hora de Codar - Matheus Battisti</sub>
+---
+You can also find me on [LinkedIn](https://www.linkedin.com/in/luan-henrique-neumann-362593267/) and [GitHub](https://github.com/Luan-Neumann-Dev).
+
+<sub>This project was developed throughout the JavaScript course within the Hora de Codar community - Matheus Battisti</sub>
